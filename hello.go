@@ -1,6 +1,6 @@
 package mod
 
-const hello = "Hello"
+const hello = "Hey"
 
 func Hello() string {
 	return hello
